@@ -1,6 +1,6 @@
 # gomoku-v2__5-and-more-in-a-row
 
-Game example:
+Gomoku game example (5 in a row):
 
 ![image](https://user-images.githubusercontent.com/78417431/217353589-456e5557-9880-4b41-bcdc-b1ff6e9fef91.png)
 
