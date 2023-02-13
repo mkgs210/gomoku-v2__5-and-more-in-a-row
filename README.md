@@ -9,7 +9,7 @@ Finish:
 ![image](https://user-images.githubusercontent.com/78417431/217353721-8f03f97a-31f2-4289-9c04-c90265572dd9.png)
 
 
-If desired, the game can turn the game into tic-tac-toe, for this you need to change the field size to 3 and the line size to 3 too:
+If desired, the game can be changed as you like, for example turn into tic-tac-toe, for this you need to change the field size to 3 and the line size to 3 too:
 
 ![image](https://user-images.githubusercontent.com/78417431/217354865-11a1ac95-85c8-49c4-8da7-bee4c4abd1ad.png)
 
